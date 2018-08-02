@@ -1,0 +1,13 @@
+.jumbotron h1{color: brown;
+font-family: American Typewriter serif;}
+h2 {color: white;}
+@font-face {
+
+  div.b {
+      font-size: large;
+  }
+
+th{font-size: 60px;}
+<h1>div.b {
+    font-size: large;
+}</h1>
